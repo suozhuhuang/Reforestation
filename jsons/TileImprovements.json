@@ -1,0 +1,11 @@
+[
+	{
+		"name": "Plant Forest",
+		"terrainsCanBeBuiltOn": ["Grassland","Hill","Plains","Snow","Tundra"],
+		"turnsToBuild": 7,
+		"production": 1,
+		"techRequired": "Fertilizer",
+		"uniques": ["Can be built outside your borders","Turn this tile into a [Forest] tile"],
+		"shortcutkey": "P"
+	}
+]
