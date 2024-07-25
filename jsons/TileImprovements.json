@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Plant Forest",
-		"terrainsCanBeBuiltOn": ["Grassland","Hill","Plains","Snow","Tundra"],
+		"terrainsCanBeBuiltOn": ["Grassland","Hill","Plains","Tundra"],
 		"turnsToBuild": 7,
 		"production": 1,
 		"techRequired": "Fertilizer",

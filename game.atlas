@@ -1,12 +1,19 @@
 
 game.png
-size: 256, 256
+size: 512, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-ImprovementPortraits/Plant Forest
+ImprovementIcons/Plant Forest
   rotate: false
   xy: 4, 4
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+ImprovementPortraits/Plant Forest
+  rotate: false
+  xy: 237, 29
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
