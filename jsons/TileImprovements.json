@@ -8,9 +8,6 @@
 			"Can be built outside your borders",
 			"Turn this tile into a [Forest] tile",
 			"Does not need removal of [Trading post] <hidden from users>",
-			"Cannot be built on [Desert] tiles <hidden from users>",
-			"Cannot be built on [Snow] tiles <hidden from users>"
-		],
 		"shortcutkey": "P"
 	}
 ]
