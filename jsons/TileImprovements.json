@@ -7,7 +7,8 @@
 		"uniques": [
 			"Can be built outside your borders",
 			"Turn this tile into a [Forest] tile",
-			"Does not need removal of [Trading post] <hidden from users>",
+			"Does not need removal of [Trading post] <hidden from users>"
+],
 		"shortcutkey": "P"
 	}
 ]
